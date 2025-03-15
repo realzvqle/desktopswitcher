@@ -1,0 +1,13 @@
+name: ZtKitPvp
+version: 1.0-SNAPSHOT
+main: org.ztkitpvp.ztKitPvp.ZtKitPvp
+commands:
+  heal:
+    description: Heals the player
+    usage: /heal
+  damage:
+    description: Damages the player
+    usage: /damage
+  kit:
+    description: Gives Someone a Kit
+    usage: /kit <kit>
